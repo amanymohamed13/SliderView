@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radius10">10dp</dimen>
+    <dimen name="imageHeight">520dp</dimen>
+    <dimen name="cardHeight">540dp</dimen>
+    <dimen name="margin24">24dp</dimen>
+</resources>
